@@ -18,7 +18,8 @@ namespace Metodlar
             Console.WriteLine("sepete eklendi : "+ urun.Adi);
 
 
-        } //method yazma
+        } 
+        //method yazma
         public void Ekle2(string urunAdi,string aciklama,double fiyat,int StokAdedi)
         {
             Console.WriteLine("sepete eklendi"+ urunAdi);
